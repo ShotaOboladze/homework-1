@@ -1,0 +1,25 @@
+body {
+background: #dbdbdb;   
+}
+
+.h1style-1 {
+width: 494 ;
+height: 19px;
+top: 274px;
+left: 38px;
+font: Inter;
+font-weight: 700;
+font-size: 20px;
+line-height: 24.2px;
+color: black;
+}
+
+h1 {
+    font: Inter;
+    font-size: 20px;
+}
+
+p {
+    font: Inter;
+    font-size: 16px;
+}
